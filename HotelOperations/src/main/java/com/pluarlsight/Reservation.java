@@ -20,7 +20,7 @@ public class Reservation {
         this.weekend = weekend;
     }
 
-    // Getters and Setters for backing variables (with validation in setters)
+    // Getters and Setters for backing variables
     public String getRoomType() { return roomType; }
 
     public void setRoomType(String roomType) {
